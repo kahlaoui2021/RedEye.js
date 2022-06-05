@@ -5,3 +5,4 @@ Crawls high quality user agents from useragents.io and saves the uas in a file.
 ``node``
 ``npm i xmldom``
 ``npm i xpath``
+Install by ``npm i``
