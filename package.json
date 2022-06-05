@@ -1,0 +1,4 @@
+"dependencies": {
+    "xpath": "^0.0.32",
+    "xmldom": "^0.6.0"
+  }
